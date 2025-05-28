@@ -1,8 +1,9 @@
 # CIRCLE-BACKEND
-This is the backend part of the Pathway project.
+This is the backend part for CIRCLE.
 
 # Folder Structure
 src/: Backend code
+
 public/: Static assets
 docker/: Container files
 terraform/: Infrastructure as code
